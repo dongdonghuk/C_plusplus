@@ -1,0 +1,5 @@
+﻿  0321_Default_Parameter_모호성.cpp
+D:\C_plusplus\CH06\0321_Default_Parameter_모호성.cpp(52,24): error C2668: 'function3': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\C_plusplus\CH06\0321_Default_Parameter_모호성.cpp(35,5): message : 'int function3(int &,int &)'일 수 있습니다.
+D:\C_plusplus\CH06\0321_Default_Parameter_모호성.cpp(30,5): message : 또는       'int function3(int,int)'
+D:\C_plusplus\CH06\0321_Default_Parameter_모호성.cpp(52,24): message : 인수 목록 '(int, int)'을(를) 일치시키는 동안

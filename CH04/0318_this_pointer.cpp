@@ -38,13 +38,16 @@ int main()
 	cout << "객체반환" << endl;
 	Person p3 = p2->getThis2();
 	p2->ShowData();
-	p3.ShowData();
+	//p3.ShowData();
 
 	delete p1;
 	delete p2;
 
+	p3.ShowData();
+
+
 	Person per1;
-	cout << "&per1" << &per1 << endl;
+	cout << "&per1 : " << &per1 << endl;
 	cout << "per1.getThis() 포인터 : " << per1.getThis() << endl;
 
 
