@@ -39,5 +39,8 @@
     <ClCompile Include="0323_Overriding_Intro.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\C_Basic\CH11\0310_fileio_employees.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
