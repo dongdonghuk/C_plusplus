@@ -1,0 +1,7 @@
+﻿  0328_Template_Point_class2.cpp
+C:\Users\park\source\repos\dongdonghuk\C_plusplus\CH10\CH10\0328_Template_Point_class2.cpp(40,22): warning C4305: '인수': 'double'에서 'T2'(으)로 잘립니다.
+          with
+          [
+              T2=float
+          ]
+  CH10.vcxproj -> C:\Users\park\source\repos\dongdonghuk\C_plusplus\CH10\Debug\CH10.exe
