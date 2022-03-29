@@ -1,0 +1,5 @@
+﻿  0329_STL_vector.cpp
+D:\C_plusplus\CH_10_STL\0329_STL_vector.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\C_plusplus\CH_10_STL\0329_STL_vector.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\C_plusplus\CH_10_STL\0329_STL_vector.cpp(58,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CH_10_STL.vcxproj -> D:\C_plusplus\CH_10_STL\Debug\CH_10_STL.exe
